@@ -1,0 +1,171 @@
+---label: neutral/entailment P=0.984
+ -Premise: a man in a red shirt looking at a woman with red-hair
+ -Hypothesis: A person is leering at another .
+
+---label: neutral/entailment P=0.963
+ -Premise: A child , wearing a tie , jumps off steps .
+ -Hypothesis: A child is playing .
+
+---label: neutral/entailment P=0.965
+ -Premise: Some pedestrians with multiple shopping bags walk down a paved walkway .
+ -Hypothesis: Three women walk down a walkway
+
+---label: contradiction/entailment P=0.97
+ -Premise: A man wearing padded arm protection is being bitten by a German shepherd dog .
+ -Hypothesis: A man bit a dog .
+
+---label: neutral/contradiction P=0.968
+ -Premise: An older and younger man smiling .
+ -Hypothesis: Two men are smiling and laughing at the cats playing on the floor .
+
+---label: entailment/neutral P=0.955
+ -Premise: A curly-haired redhead is wearing a blue checkered hat , a black long-sleeve shirt , and blue jeans while holding a red jacket as she speaks
+ -Hypothesis: A redhead is talking to her friends .
+
+---label: entailment/neutral P=0.974
+ -Premise: A rock climber climbs a steep mountain .
+ -Hypothesis: a climber is trying to get to the top of the mountain
+
+---label: contradiction/entailment P=0.96
+ -Premise: A little boy kisses a little girl as they sit on a hay bale with pumpkins and a Halloween display in the background .
+ -Hypothesis: a boy kisses another boy
+
+---label: neutral/contradiction P=0.98
+ -Premise: Javelin competition
+ -Hypothesis: The woman one the javelin competition .
+
+---label: neutral/entailment P=0.983
+ -Premise: A woman holding a red cup with a straw in it sits in front of a man and a woman looking at a book .
+ -Hypothesis: People read .
+
+---label: neutral/contradiction P=0.98
+ -Premise: the shadow silhouette of a woman standing near the water looking at a large attraction on the other side .
+ -Hypothesis: She is eating a corn dog .
+
+---label: neutral/entailment P=0.961
+ -Premise: Man walking in front of Queen and Portland <unk> and <unk> .
+ -Hypothesis: A person is walking outside .
+
+---label: neutral/entailment P=0.955
+ -Premise: Two men stand in a brightly colored alley .
+ -Hypothesis: Two men are standing near each other .
+
+---label: entailment/neutral P=0.978
+ -Premise: A father helps his son ride a bike across dry , and dusty dirt accompanied by his sister adorned in a green dress .
+ -Hypothesis: A father helps his son
+
+---label: neutral/entailment P=0.978
+ -Premise: One man is shirtless while the other two men work on construction
+ -Hypothesis: Three men are outdoors .
+
+---label: entailment/contradiction P=0.981
+ -Premise: images are missing images are missing images are missing images are missing images are missing images are missing
+ -Hypothesis: There are no images .
+
+---label: contradiction/entailment P=0.965
+ -Premise: A long-haired brown and white dog carries a snowball in his mouth .
+ -Hypothesis: A dog carries a bone .
+
+---label: neutral/contradiction P=0.988
+ -Premise: A man waterskies with a life jacket .
+ -Hypothesis: A lifeguard races across the water .
+
+---label: entailment/contradiction P=0.977
+ -Premise: A white dog bounding through snow
+ -Hypothesis: A mammal is running .
+
+---label: neutral/entailment P=0.974
+ -Premise: A woman walking a dog on a leash at the beach , trailing behind as a pug follows another unseen woman .
+ -Hypothesis: a large woman walks a dog
+
+---label: neutral/contradiction P=0.954
+ -Premise: Two people are sitting next to a <unk> campfire at night .
+ -Hypothesis: The people are camping in the woods .
+
+---label: contradiction/neutral P=0.962
+ -Premise: Two girls are walking down the street looking at items in the store windows .
+ -Hypothesis: Two friends are walking together to there house and decided to skip
+
+---label: contradiction/neutral P=0.997
+ -Premise: Very young boy standing in front of a bride and groom , wearing a suit and holding a ring-bearer 's pillow .
+ -Hypothesis: A funny standing
+
+---label: neutral/entailment P=0.993
+ -Premise: A girl jumping on pavement .
+ -Hypothesis: A girl outside
+
+---label: neutral/contradiction P=0.965
+ -Premise: A man in an orange vest is waiting at a train station .
+ -Hypothesis: A man is sitting down on a bench .
+
+---label: entailment/contradiction P=0.985
+ -Premise: a man with a black hat and jacket is loading two horses with cargo .
+ -Hypothesis: The man is not naked .
+
+---label: entailment/contradiction P=0.974
+ -Premise: An older gentleman standing in front of a washer and dryer with his hand getting ready to push a button and a black basket of clothes
+ -Hypothesis: A man washes laundry
+
+---label: neutral/contradiction P=0.977
+ -Premise: A young man , without apparent protective gear , is on a bicycle jumping over small hills of sand or gravel , with a long bridge
+ -Hypothesis: A young man is racing home to eat dinner .
+
+---label: entailment/contradiction P=0.975
+ -Premise: A line of nine cheerleaders wearing short white skirts and tops with a yellow stripe and blue and white pompoms stand on the center line of
+ -Hypothesis: The women are inside a gymnasium .
+
+---label: neutral/contradiction P=0.986
+ -Premise: A woman wearing a red hat and black coat .
+ -Hypothesis: The woman is asleep .
+
+---label: neutral/contradiction P=0.969
+ -Premise: A man in an orange construction vest walks in a parade with a child atop his shoulders , carry balloons .
+ -Hypothesis: The child has no legs .
+
+---label: entailment/neutral P=0.966
+ -Premise: A father sitting on an exercise ball holding his newborn , while his toddler son hangs on to his back .
+ -Hypothesis: The father has a son .
+
+---label: neutral/entailment P=0.968
+ -Premise: Man in a blue shirt practicing karate .
+ -Hypothesis: There is a man outside .
+
+---label: neutral/entailment P=0.989
+ -Premise: A man is carrying a child while holding a red and blue umbrella .
+ -Hypothesis: Two humans are outside .
+
+---label: neutral/contradiction P=0.988
+ -Premise: A man and a dog on the beach .
+ -Hypothesis: The dog is eating a hamburger .
+
+---label: neutral/entailment P=0.972
+ -Premise: A male hiker wearing a brown hat is standing next to a triangular monument on the top of a mountain .
+ -Hypothesis: A man exercises outdoors .
+
+---label: neutral/contradiction P=0.971
+ -Premise: A woman prepares ingredients for a bowl of soup .
+ -Hypothesis: A woman is cutting carrots .
+
+---label: neutral/entailment P=0.953
+ -Premise: A girl dressed in a pink shirt , jeans , and flip-flops sitting down playing with a lollipop machine .
+ -Hypothesis: A person in a shirt
+
+---label: contradiction/neutral P=0.974
+ -Premise: A smartly dressed woman wearing a white jacket is holding a camera .
+ -Hypothesis: A woman attracts man to help her
+
+---label: contradiction/entailment P=0.984
+ -Premise: There is not an image here .
+ -Hypothesis: There is an image here .
+
+---label: contradiction/entailment P=0.97
+ -Premise: A young man trying to buy a car from his dealer after his old car was towed away by police .
+ -Hypothesis: A person renting a vehicle .
+
+---label: neutral/entailment P=0.993
+ -Premise: An older man is walking in a large grassy area with a small plane in the background about to land .
+ -Hypothesis: A person is outside .
+
+---label: contradiction/entailment P=0.969
+ -Premise: Four children playing at a preschool , one looking out the window , one is running , and the other two are playing with wooden blocks
+ -Hypothesis: The children at outside .
